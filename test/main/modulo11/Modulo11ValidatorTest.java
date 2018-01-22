@@ -5,7 +5,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 /**
- * Test class for Modulo11Validatot
+ * Test class for Modulo11Validator
  */
 public class Modulo11ValidatorTest {
 
